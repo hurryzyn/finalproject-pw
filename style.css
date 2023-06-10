@@ -105,40 +105,6 @@
     color: #fff;
 }
 
-#main_slider a.carousel-control-next {
-    left: 0px;
-    right: -60px;
-    top: 440px;
-}
-
-#main_slider a.carousel-control-prev {
-    left: -60px;
-    right: 0px;
-    top: 440px;
-}
-
-#main_slider .carousel-control-next,
-#main_slider .carousel-control-prev {
-    width: 45px;
-    height: 45px;
-    background: #fff;
-    opacity: 1;
-    font-size: 30px;
-    color: #48b688;
-    margin: 0 auto;
-    z-index: 1;
-    margin: 0 auto;
-    text-align: center;
-}
-
-#main_slider .carousel-control-next:focus,
-#main_slider .carousel-control-next:hover,
-#main_slider .carousel-control-prev:focus,
-#main_slider .carousel-control-prev:hover {
-    color: #ffffff;
-    background-color: #f76d37;
-}
-
 #main {
     margin : 50px;
 }
